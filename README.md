@@ -1,7 +1,7 @@
 ## Simple Create Update Delete Rest API
 
 - Place Repository on <code>xampp/htdocs</code>
-- Create and Import Database
+- Create and Import Database <code>laravel_restapi.sql</code>
 - Run <code>php artisan serve</code>
 - Test Using Postman
 
@@ -16,4 +16,4 @@
 ![Postman](https://user-images.githubusercontent.com/55520351/132520109-75a20002-9b03-443b-9ca6-26a2a06230f2.png)
 
 ## Source
-https://medium.com/@tedoharischandra29/membangun-dan-testing-rest-api-dengan-crud-sederhana-laravel-687a7d96ab3b
+[Membangun dan Testing Rest API dengan CRUD Sederhana Laravel](https://medium.com/@tedoharischandra29/membangun-dan-testing-rest-api-dengan-crud-sederhana-laravel-687a7d96ab3b)
