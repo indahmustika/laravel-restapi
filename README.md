@@ -13,7 +13,7 @@
 - Api Route <code>routes/api.php</code>
 
 ## Test Using Postman
-![Postman](https://user-images.githubusercontent.com/55520351/132520109-75a20002-9b03-443b-9ca6-26a2a06230f2.png)
+![asa](https://user-images.githubusercontent.com/55520351/132526279-f710dabc-c9a6-45aa-b7e5-5e028c91af61.png)
 
 ## Source
 [Membangun dan Testing Rest API dengan CRUD Sederhana Laravel](https://medium.com/@tedoharischandra29/membangun-dan-testing-rest-api-dengan-crud-sederhana-laravel-687a7d96ab3b)
