@@ -100,10 +100,10 @@ header('Access-Control-Allow-Headers: *');
 ```
 #### Run & Test
 - Run application `php artisan serve`
-- Access application on htp://127.0.0.1:8000/api/article
-- Test restapi on postman
+- Access application on http://127.0.0.1:8000/api/article
+- Test rest api using postman
 
-![asa](https://user-images.githubusercontent.com/55520351/132526279-f710dabc-c9a6-45aa-b7e5-5e028c91af61.png)
+![20211207_153806](https://user-images.githubusercontent.com/55520351/144996016-c3d19d8f-6231-4298-bc8d-0cf4eb9b70a7.png)
 
 # Reference
-[Membangun dan Testing Rest API dengan CRUD Sederhana Laravel](https://medium.com/@tedoharischandra29/membangun-dan-testing-rest-api-dengan-crud-sederhana-laravel-687a7d96ab3b)
+[Build & Test Rest API Using Laravel](https://medium.com/@tedoharischandra29/membangun-dan-testing-rest-api-dengan-crud-sederhana-laravel-687a7d96ab3b)
